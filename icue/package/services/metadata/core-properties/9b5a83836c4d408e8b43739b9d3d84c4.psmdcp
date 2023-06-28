@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"><dc:creator>Corsair Components Inc. (CORSAIR)</dc:creator><dc:description>iCUE features  support for CORSAIR RGB keyboards, mice, headsets, and accessories.
+
+## Features
+
+* Lighting on supported Corsair products
+* Fan and cooler speed, temperature modding etc.
+* Mouse and keyboard settings and macros
+* Power supply monitoring and fan control
+* Much more!
+
+iCUE’s single intuitive interface links together supported CORSAIR products, allowing you to quickly and easily fine-tune your settings. Supported CORSAIR keyboards and mice are fully programmable with macros or key remaps, letting you specify a button or click to do anything from instant shortcuts to complex strings of commands. iCUE&amp;apos;s robust level of customization helps you create, write, and play faster and more efficiently.
+
+The depth to which device settings can be changed results in a tailored experience unique to each user. Adjust mouse sensitivity to your exacting preferences, down to single DPI steps, or tinker with your headset’s equalizer settings to create your ideal listening experience. iCUE also saves your settings as profiles which you can swap between instantly – or even launch automatically with your favorite programs.
+
+Finally, take advantage of iCUE to unleash the boundless customization of RGB-lighting equipped CORSAIR peripherals. Choose from dozens of preset lighting patterns and effects to illuminate your workspace or design your own multi-layer lighting profiles. Best of all, lighting can be synchronized across all iCUE-compatible devices for truly intricate light shows.
+
+Whether you play on Windows or Mac, install iCUE to enable intelligent control and unlimited possibilities for your CORSAIR peripherals.
+
+**NOTE**: This package is automatically updated. If it is out of date and there is no newer package submitted, please use the `Contact Maintainers` functionality to alert me.</dc:description><dc:identifier>icue</dc:identifier><version>4.33.138</version><keywords>corsair icue cue utility engine rgb keyboard mouse headphone driver update</keywords><dc:title>Corsair iCUE</dc:title><lastModifiedBy>choco, Version=1.2.0.0, Culture=neutral, PublicKeyToken=79d02ea9cad655eb;Microsoft Windows NT 10.0.17763.0;.NET Framework 4</lastModifiedBy></coreProperties>
