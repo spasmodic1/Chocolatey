@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>icue</id>
-    <version>4.33.138</version>
+    <version>5.3.0</version>
     <title>Corsair iCUE</title>
     <authors>Corsair Components Inc. (CORSAIR)</authors>
-    <owners>mikeee</owners>
+    <owners>spasmodic1</owners>
     <projectUrl>https://www.corsair.com/ww/en/icue</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/mikeee/ChocoPackages/icons/icue.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
