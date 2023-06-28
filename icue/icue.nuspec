@@ -8,6 +8,7 @@
     <owners>spasmodic1</owners>
     <projectUrl>https://www.corsair.com/ww/en/icue</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/mikeee/ChocoPackages/icons/icue.png</iconUrl>
+	<packageSourceUrl>https://github.com/spasmodic1/Chocolatey/tree/main/icue</packageSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>iCUE features support for CORSAIR RGB keyboards, mice, headsets, and accessories.
 
